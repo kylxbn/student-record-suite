@@ -1,0 +1,15 @@
+﻿DBMap,66:
+Global,102:
+frmEnrollStudent,142:
+	Is ReExamGrade needed?
+	---For now, let's ignore it and assume that FinalGrade is the only final grade.
+
+DBMap,68:
+frmEnrollStudent,142:
+	After 3.0, is there only 5.0 ('failed')?
+	---For now, let's assume that 3.0 is the lowest passing grade, and that after 3.0, there is only 'FAILED' values
+	   for the grade (not 5.0 because that would confuse frmEnrollStudent)
+	
+frmEnrollStudent,363:
+	Is the EnrolledDate and Professor necessary for the TOR?
+	---For now, let's ignore it.

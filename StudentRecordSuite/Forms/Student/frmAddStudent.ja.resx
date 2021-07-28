@@ -1,0 +1,539 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="radioButton3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 17</value>
+  </data>
+  <data name="radioButton3.Text" xml:space="preserve">
+    <value>非常</value>
+  </data>
+  <data name="radioButton2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>91, 17</value>
+  </data>
+  <data name="radioButton2.Text" xml:space="preserve">
+    <value>普通・転学生</value>
+  </data>
+  <data name="radioButton1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 17</value>
+  </data>
+  <data name="radioButton1.Text" xml:space="preserve">
+    <value>神学生</value>
+  </data>
+  <data name="groupBox7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>172, 301</value>
+  </data>
+  <data name="groupBox7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>372, 48</value>
+  </data>
+  <data name="groupBox7.Text" xml:space="preserve">
+    <value>地位：</value>
+  </data>
+  <data name="label21.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 13</value>
+  </data>
+  <data name="label21.Text" xml:space="preserve">
+    <value>登録日：</value>
+  </data>
+  <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>315, 113</value>
+  </data>
+  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 13</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>学期：</value>
+  </data>
+  <data name="txtSemester.Location" type="System.Drawing.Point, System.Drawing">
+    <value>358, 111</value>
+  </data>
+  <data name="cmdSuggestID.Text" xml:space="preserve">
+    <value>すすめる</value>
+  </data>
+  <data name="txtSection.Location" type="System.Drawing.Point, System.Drawing">
+    <value>430, 111</value>
+  </data>
+  <data name="label20.Location" type="System.Drawing.Point, System.Drawing">
+    <value>399, 113</value>
+  </data>
+  <data name="label20.Size" type="System.Drawing.Size, System.Drawing">
+    <value>25, 13</value>
+  </data>
+  <data name="label20.Text" xml:space="preserve">
+    <value>組：</value>
+  </data>
+  <data name="txtYear.Location" type="System.Drawing.Point, System.Drawing">
+    <value>287, 110</value>
+  </data>
+  <data name="label19.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 13</value>
+  </data>
+  <data name="label19.Text" xml:space="preserve">
+    <value>学年：</value>
+  </data>
+  <data name="label9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 13</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>コース：</value>
+  </data>
+  <data name="optSingle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 17</value>
+  </data>
+  <data name="optSingle.Text" xml:space="preserve">
+    <value>独身</value>
+  </data>
+  <data name="optMarried.Location" type="System.Drawing.Point, System.Drawing">
+    <value>61, 19</value>
+  </data>
+  <data name="optMarried.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 17</value>
+  </data>
+  <data name="optMarried.Text" xml:space="preserve">
+    <value>結婚</value>
+  </data>
+  <data name="groupBox5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>155, 48</value>
+  </data>
+  <data name="groupBox5.Text" xml:space="preserve">
+    <value>婚姻状態：</value>
+  </data>
+  <data name="optMale.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 17</value>
+  </data>
+  <data name="optMale.Text" xml:space="preserve">
+    <value>男性</value>
+  </data>
+  <data name="optFemale.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 17</value>
+  </data>
+  <data name="optFemale.Text" xml:space="preserve">
+    <value>女性</value>
+  </data>
+  <data name="groupBox4.Text" xml:space="preserve">
+    <value>性別：</value>
+  </data>
+  <data name="txtStudentSurname.Location" type="System.Drawing.Point, System.Drawing">
+    <value>82, 58</value>
+  </data>
+  <data name="txtStudentMiddleName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>82, 84</value>
+  </data>
+  <data name="label11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 13</value>
+  </data>
+  <data name="label11.Text" xml:space="preserve">
+    <value>学生番号：</value>
+  </data>
+  <data name="label8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 13</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>宗教：</value>
+  </data>
+  <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 13</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>国籍：</value>
+  </data>
+  <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 13</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>出生地：</value>
+  </data>
+  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 13</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>生年月日：</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 61</value>
+  </data>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 13</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>名字：</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 87</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 13</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>中間名：</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 13</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>洗礼名：</value>
+  </data>
+  <data name="tabPage1.Text" xml:space="preserve">
+    <value>基本的な情報</value>
+  </data>
+  <data name="label15.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 13</value>
+  </data>
+  <data name="label15.Text" xml:space="preserve">
+    <value>電子メールアドレス：</value>
+  </data>
+  <data name="label14.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 13</value>
+  </data>
+  <data name="label14.Text" xml:space="preserve">
+    <value>都市の連絡先：</value>
+  </data>
+  <data name="label13.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 13</value>
+  </data>
+  <data name="label13.Text" xml:space="preserve">
+    <value>都市の住所：</value>
+  </data>
+  <data name="label12.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 13</value>
+  </data>
+  <data name="label12.Text" xml:space="preserve">
+    <value>田舎の連絡先：</value>
+  </data>
+  <data name="label10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 13</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>田舎の住所：</value>
+  </data>
+  <data name="tabPage2.Text" xml:space="preserve">
+    <value>住所と連絡先</value>
+  </data>
+  <data name="chkVocational.Size" type="System.Drawing.Size, System.Drawing">
+    <value>157, 17</value>
+  </data>
+  <data name="chkVocational.Text" xml:space="preserve">
+    <value>職業学校に通ったことがある</value>
+  </data>
+  <data name="lblVocationalName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 13</value>
+  </data>
+  <data name="lblVocationalName.Text" xml:space="preserve">
+    <value>職業学校名：</value>
+  </data>
+  <data name="lblVocationalYear.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 13</value>
+  </data>
+  <data name="lblVocationalYear.Text" xml:space="preserve">
+    <value>学年：</value>
+  </data>
+  <data name="lblVocationalAddress.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 13</value>
+  </data>
+  <data name="lblVocationalAddress.Text" xml:space="preserve">
+    <value>住所：</value>
+  </data>
+  <data name="groupBox6.Text" xml:space="preserve">
+    <value>職業学校</value>
+  </data>
+  <data name="label18.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 13</value>
+  </data>
+  <data name="label18.Text" xml:space="preserve">
+    <value>住所：</value>
+  </data>
+  <data name="label17.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 13</value>
+  </data>
+  <data name="label17.Text" xml:space="preserve">
+    <value>卒業日：</value>
+  </data>
+  <data name="optHighSchool.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 17</value>
+  </data>
+  <data name="optHighSchool.Text" xml:space="preserve">
+    <value>高校</value>
+  </data>
+  <data name="optCollege.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 17</value>
+  </data>
+  <data name="optCollege.Text" xml:space="preserve">
+    <value>大学</value>
+  </data>
+  <data name="label16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>87, 13</value>
+  </data>
+  <data name="label16.Text" xml:space="preserve">
+    <value>前に通った学校：</value>
+  </data>
+  <data name="tabPage3.Text" xml:space="preserve">
+    <value>経歴</value>
+  </data>
+  <data name="label34.Size" type="System.Drawing.Size, System.Drawing">
+    <value>115, 13</value>
+  </data>
+  <data name="label34.Text" xml:space="preserve">
+    <value>提出した信用証明書：</value>
+  </data>
+  <data name="tabPage4.Text" xml:space="preserve">
+    <value>信用証明書</value>
+  </data>
+  <data name="lblEmployer.Size" type="System.Drawing.Size, System.Drawing">
+    <value>79, 13</value>
+  </data>
+  <data name="lblEmployer.Text" xml:space="preserve">
+    <value>雇用者・会社：</value>
+  </data>
+  <data name="lblReason.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 13</value>
+  </data>
+  <data name="lblReason.Text" xml:space="preserve">
+    <value>理由：</value>
+  </data>
+  <data name="optNo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>54, 17</value>
+  </data>
+  <data name="optNo.Text" xml:space="preserve">
+    <value>いいえ</value>
+  </data>
+  <data name="optYes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 17</value>
+  </data>
+  <data name="optYes.Text" xml:space="preserve">
+    <value>はい</value>
+  </data>
+  <data name="label22.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 13</value>
+  </data>
+  <data name="label22.Text" xml:space="preserve">
+    <value>一人暮らし：</value>
+  </data>
+  <data name="tabPage5.Text" xml:space="preserve">
+    <value>支持後援</value>
+  </data>
+  <data name="label33.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 13</value>
+  </data>
+  <data name="label33.Text" xml:space="preserve">
+    <value>連絡先：</value>
+  </data>
+  <data name="label32.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 13</value>
+  </data>
+  <data name="label32.Text" xml:space="preserve">
+    <value>住所：</value>
+  </data>
+  <data name="label31.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 13</value>
+  </data>
+  <data name="label31.Text" xml:space="preserve">
+    <value>仕事：</value>
+  </data>
+  <data name="label30.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 13</value>
+  </data>
+  <data name="label30.Text" xml:space="preserve">
+    <value>名前：</value>
+  </data>
+  <data name="label29.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 13</value>
+  </data>
+  <data name="label29.Text" xml:space="preserve">
+    <value>関係：</value>
+  </data>
+  <data name="cboRelation.Items" xml:space="preserve">
+    <value>父親</value>
+  </data>
+  <data name="cboRelation.Items1" xml:space="preserve">
+    <value>母親</value>
+  </data>
+  <data name="cboRelation.Items2" xml:space="preserve">
+    <value>その他</value>
+  </data>
+  <data name="groupBox3.Text" xml:space="preserve">
+    <value>保護者</value>
+  </data>
+  <data name="label28.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 13</value>
+  </data>
+  <data name="label28.Text" xml:space="preserve">
+    <value>仕事：</value>
+  </data>
+  <data name="label27.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 13</value>
+  </data>
+  <data name="label27.Text" xml:space="preserve">
+    <value>名前：</value>
+  </data>
+  <data name="groupBox2.Text" xml:space="preserve">
+    <value>母親</value>
+  </data>
+  <data name="label26.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 13</value>
+  </data>
+  <data name="label26.Text" xml:space="preserve">
+    <value>仕事：</value>
+  </data>
+  <data name="label25.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 13</value>
+  </data>
+  <data name="label25.Text" xml:space="preserve">
+    <value>名前：</value>
+  </data>
+  <data name="groupBox1.Text" xml:space="preserve">
+    <value>父親</value>
+  </data>
+  <data name="tabPage6.Text" xml:space="preserve">
+    <value>家族関係</value>
+  </data>
+  <data name="cmdSubmit.Text" xml:space="preserve">
+    <value>提出</value>
+  </data>
+  <data name="cmdCancel.Text" xml:space="preserve">
+    <value>キャンセル</value>
+  </data>
+  <data name="chkAllowIncomplete.Size" type="System.Drawing.Size, System.Drawing">
+    <value>81, 17</value>
+  </data>
+  <data name="chkAllowIncomplete.Text" xml:space="preserve">
+    <value>空欄を許す</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAEAGABoAwAAFgAAACgAAAAQAAAAIAAAAAEAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADsrQAA7a0AAOWN
+        AADtrQAA5IgAAP//AAD//wAA/e8AAAOAAADjPAAAy3kAAArhAAB4LwAAe48AAHuvAAAIIQAA
+</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>学生登録</value>
+  </data>
+</root>

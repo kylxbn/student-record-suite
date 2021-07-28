@@ -1,0 +1,133 @@
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\bin\Release\Student Record Suite.exe
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\bin\Release\Student Record Suite.pdb
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\bin\Release\ja\Student Record Suite.resources.dll
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmAbout.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmAddCourse.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmImportGrades.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.Forms.frmAddProfessor.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmEnterGrades.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmAddSubject.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmCheckLicense.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmDeleteSubject.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmEditCourse.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmEditStudent.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmEditSubject.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmEnrollStudent.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmGetLicense.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmAddStudent.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmFirstProgramConfig.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmLogIn.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmMain.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmProgramConfig.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmRemoveCourse.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmRemoveStudent.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmRequestLicense.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmSetLanguage.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.Properties.Resources.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmAddSubject.ja.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmAddStudent.ja.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmFirstProgramConfig.ja.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmLogIn.ja.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmMain.ja.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmProgramConfig.ja.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.csproj.GenerateResource.Cache
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\ja\Student Record Suite.resources.dll
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\Student Record Suite.exe
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\Student Record Suite.pdb
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\bin\Release\eo\Student Record Suite.resources.dll
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\bin\Release\en\Student Record Suite.resources.dll
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmViewEnrolled.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmAddCourse.eo.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmAddCourse.ja.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmEditCourse.eo.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmEditCourse.ja.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmRemoveCourse.eo.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmRemoveCourse.ja.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmAbout.eo.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmAbout.ja.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmCheckLicense.eo.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmCheckLicense.ja.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmFirstProgramConfig.eo.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmGetLicense.en.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmGetLicense.eo.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmGetLicense.ja.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmImportGrades.eo.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmImportGrades.ja.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmLogIn.eo.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmMain.eo.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmProgramConfig.eo.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmRequestLicense.eo.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmRequestLicense.ja.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmAddStudent.eo.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\eo\Student Record Suite.resources.dll
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\en\Student Record Suite.resources.dll
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmEditUsers.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\bin\Release\Student Record Suite.exe
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\bin\Release\Student Record Suite.pdb
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\bin\Release\eo\Student Record Suite.resources.dll
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\bin\Release\ja\Student Record Suite.resources.dll
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\bin\Release\en\Student Record Suite.resources.dll
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\bin\Release\System.Data.SQLite.dll
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\bin\Release\System.Data.SQLite.pdb
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\bin\Release\System.Data.SQLite.dll.config
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmAbout.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmAddCourse.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmEditUsers.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmImportGrades.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.Forms.frmAddProfessor.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmEnterGrades.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmViewEnrolled.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmAddSubject.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmCheckLicense.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmDeleteSubject.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmEditCourse.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmEditStudent.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmEditSubject.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmEnrollStudent.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmGetLicense.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmAddStudent.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmFirstProgramConfig.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmLogIn.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmMain.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmProgramConfig.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmRemoveCourse.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmRemoveStudent.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmRequestLicense.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmSetLanguage.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.Properties.Resources.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmAddCourse.eo.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmAddCourse.ja.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmEditCourse.eo.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmEditCourse.ja.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmRemoveCourse.eo.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmRemoveCourse.ja.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmAbout.eo.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmAbout.ja.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmCheckLicense.eo.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmCheckLicense.ja.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmFirstProgramConfig.eo.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmGetLicense.en.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmGetLicense.eo.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmGetLicense.ja.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmImportGrades.eo.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmImportGrades.ja.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmLogIn.eo.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmMain.eo.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmProgramConfig.eo.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmRequestLicense.eo.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmRequestLicense.ja.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmAddStudent.eo.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmAddSubject.ja.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmAddStudent.ja.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmFirstProgramConfig.ja.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmLogIn.ja.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmMain.ja.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.frmProgramConfig.ja.resources
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.csproj.GenerateResource.cache
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.csproj.CoreCompileInputs.cache
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\eo\Student Record Suite.resources.dll
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\ja\Student Record Suite.resources.dll
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\en\Student Record Suite.resources.dll
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\StudentRecordSuite.csproj.CopyComplete
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\Student Record Suite.exe
+C:\Users\OrthoCube\Desktop\Documents\Programming\Visual Studio 2015\Projects\StudentRecordSuite\StudentRecordSuite\obj\x86\Release\Student Record Suite.pdb

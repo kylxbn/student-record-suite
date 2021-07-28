@@ -1,0 +1,4 @@
+﻿frmEnrollStudent
+	Avoid enrolling the subject when it is already enrolled and is waiting for a grade.
+		DONE
+

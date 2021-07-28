@@ -1,0 +1,127 @@
+﻿TABLE Student_Data
+	StudentCourse - Course
+	StudentNumber - Student #
+	LName - Surname
+	FName - First Name
+	MName - Middle Name
+	Year - Year
+	Semester - Student Semester
+		******NOTE:
+			An iregular student is represented by
+				Year:	0
+				Sem:	1
+			A newly-enrolled student is represented by:
+				Year:	0
+				Sem:	0
+			And a graduated student is represented by:
+				Year:   0
+				Sem:    2
+			Any other values are understood as real accurate values.
+	Section - Section
+	IsMale - (bool) male else female
+	DOB - Date of birth
+	DateEnrolled - Duh.
+	POB - Place of birth
+	Nationality - Nationality
+	Religion - Religion
+	IsMarried - (boolean) civil status is married else single
+	ProvincialAddress - Provincial address
+	EmailAddress - E-mail address
+	ProvincialTelNum - telephone number (provincial)
+	CityAddress - City address
+	CityTelNum - telephone number (city)
+	PrevSchoolAttended - previous school attended
+	PrevSchoolIsHighSchool - (boolean flag) previous school is high school
+	PrevSchoolGraduated - date graduated from previous school
+	PrevSchoolAddress - address of the previous school
+	VocSchoolAttended - last vocational school attended
+	VocSchoolYearLevel - year level from the vocational school
+	VocSchoolAddress - address of the vocational school
+	F138 - (bool) Form 138
+	GoodMoral - (bool) Good Moral
+	NSO - (bool) NSO Birth Certificate
+	TOR - (bool) TOR
+	HonorableDismissal - (bool) Honorable Dismissal
+	FormalPicture - (bool) 7 pcs 1x1 Formal Picture
+	MailingEnvelope - (bool) 6 pcs mailing envelope
+	NCAE - (bool) NCAE Results
+	F137 - (bool) F137
+	IsSelfSupporting - (boolean) student is self-supporting
+	SelfSupportingReason - the reason why the student is self-supporting
+	SelfSupportingEmployer - the name of the employer/company
+	FatherName - the name of the father
+	FatherOccupation - the occupation of the father
+	MotherName - the name of the mother
+	MotherOccupation - the occupation of the mother
+	GuardianName - the name of the guardian
+	GuardianOccupation - the occupation of the guardian
+	RelationToGuardian - the student's relation to the guardian
+	GuardianAddress - the address of the guardian
+	GuardianTelNum - the telephone number of the guardian
+
+******TABLE Student_EnrolledCourses
+	StudentNumber - primary key
+	StudentCourse - primary key
+	CourseCode - The code of the enrolled course
+		BSCS, BSHRM, et cetera.
+****	Date - The date when the course was enrolled
+
+TABLE Student_EnrolledSubjects
+	StudentNumber - primary key
+	StudentCourse - primary key
+	SubjectCode - The subject code enrolled
+	ProfessorCode - The Professor number of the subject enrolled
+	Date - The date enrolled
+	FinalGrade - The final grade obtained
+	ReExamGrade - The re-exam grade
+		*****NOTE:
+				These fields have multiple values, and some values have multiple meanings:
+					'NEW', 'INCOMPLETE', 'FAILED', and "DROPPED"
+					1.0 \\\
+					3.0  --- inputted grade
+
+---------------------------------------------------------------------
+
+TABLE Subject_Data
+	SubjectCode - The subject code
+	SubjectName - The real name of the subject
+	LectureUnits - The amount of lecture hours per week
+	LaboratoryUnits - The amount of laboratory hours per week
+	IsAcademic - (boolean) The subject is academic
+
+Table Subject_Prerequisites
+	SubjectCode - primary key
+	PrerequisiteCode - The subject code of the prerequisite
+
+TABLE Subject_Corequisites
+	SubjectCode - primary key
+	CorequisiteCode - The subject code of the corequisite
+
+--------------------------------------------------------------------
+
+TABLE Course_Data
+	CourseName - The real name of the course
+	CourseCode - the abbreviation of the course (e.g. BSCS)
+
+TABLE Course_Subjects
+	CourseCode - primary key
+	YearName - The name of the year ("1", "2", "3")
+	SemesterName - The name of the semester ("1", "2")
+	SubjectCode - The subject code of the subject LOL
+
+--------------------------------------------------------------------
+
+TABLE Professor_Data
+	ProfessorCode - The professor's unique code
+	FName - The professor's first name
+	LName - The professor's last name
+
+--------------------------------------------------------------------
+
+TABLE Users
+	Username - username
+	Password - password
+	Type
+		Admin: 0 (Has read-write privileges AND can edit users)
+		Authorized: 1 (Has read-write privileges BUT can't edit users)
+		Limited: 2 (Has read privileges BUT can't edit anything)
